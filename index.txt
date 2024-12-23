@@ -1,0 +1,34 @@
+<html>
+<head>
+<body>
+  <div class="w1200">
+    <header>
+        Lifetime free Europe-America MAP Updates<br>
+        Video of how to update maps for reference: https://www.youtube.com/watch?v=8Q3TRpjrmbU&feature=youtu.be<br>
+        The latest map download link: 16G version (Bought after July 2024) https://www.wanfangmaier.com/<br>
+        Safe and reliable with no add-ons. Rest assured.
+    <header>
+<body>
+<h1>1.Connect the navigator to PC, and it will be recognized as an USB storage</h1>
+<img
+src="http://7589083.s21i.faiusr.com/4/ABUIABAEGAAg7tLUswYo1NepzAcw5Ag42AM.png" width="1120" height=" 470" />
+<img
+src="" />
+<h2>2. Delete all files before in the navigator</h2>
+<img
+src="http://7589083.s21i.faiusr.com/4/ABUIABAEGAAg7tTUswYo55bapAcwgwU4_gI.png" />
+<h3>3. Open the website and find the map that needs to be downloaded, download the new map files</h3>
+<img
+src=""/>
+<h3>4.Unzip the new map files and copy into the navigator. Then finish the upgrade.</h3>
+<img
+src="http://7589083.s21i.faiusr.com/4/ABUIABAEGAAg7tTUswYo55bapAcwgwU4_gI.png"/>
+<h4>[Note] The storage root path should be like below picture. After selecting, you can use the map normally</h4>
+<img
+src=""
+    <footer>
+        Contact Info<br>
+        Sales inquiry: 1528826882@qq.com
+    <footer>
+    <body>
+<html>
